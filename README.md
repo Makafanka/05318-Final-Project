@@ -6,6 +6,7 @@ This is a movie recommendation website specially designed for CMU community. Use
 
 ## To run the app
 >streamlit run app.py
+Note that the credit.csv is too large for github, so you need to unzip it at first.
 
 ## Open-source Code and My Updates
 Open-source code: https://www.kaggle.com/code/rounakbanik/movie-recommender-systems/notebook

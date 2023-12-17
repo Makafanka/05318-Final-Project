@@ -1,0 +1,7 @@
+scikit-surprise
+numpy
+pandas
+nltk
+streamlit
+scikit-learn
+pillow
